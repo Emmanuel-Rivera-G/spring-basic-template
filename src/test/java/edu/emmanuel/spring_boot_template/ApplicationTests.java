@@ -1,4 +1,4 @@
-package edu.emmanuel.template;
+package edu.emmanuel.spring_boot_template;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

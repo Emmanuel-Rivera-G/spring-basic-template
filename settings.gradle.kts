@@ -1,2 +1,2 @@
-rootProject.name = "template"
+rootProject.name = "spring_boot_template"
 
