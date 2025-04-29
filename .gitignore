@@ -1,3 +1,7 @@
+### Dot Env files
+*.env
+!**/.env
+
 HELP.md
 .gradle
 build/
