@@ -1,6 +1,5 @@
 ### Dot Env files
-*.env
-!**/.env
+/.env
 
 HELP.md
 .gradle
